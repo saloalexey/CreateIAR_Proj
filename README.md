@@ -1,2 +1,2 @@
 # CreateIAR_Proj
-add folder and files to workspace and add Include path
+Add folder and files to IAR Workspace and add Include path.
